@@ -1,3 +1,7 @@
+# archived
+
+On 6/3/2020 we decided to use a mono repo to manage all restheart code. restheart-common has been merged in [restheart](https://github.com/SoftInstigate/restheart) and archived.
+
 # restheart-common
 
 ![Verify build](https://github.com/SoftInstigate/restheart-common/workflows/Verify/badge.svg)
